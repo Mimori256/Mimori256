@@ -1,8 +1,6 @@
 name: GitHub-Profile-Summary-Cards
 
 on:
-  create:
-  push:
   schedule: # execute every 24 hours
     - cron: "* */24 * * *"
   workflow_dispatch:
@@ -10,12 +8,12 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: generate
+    name: generate-github-profile-summary-cards
 
     steps:
       - uses: actions/checkout@v2
       - uses: vn7n24fzkq/github-profile-summary-cards@release
-        env:
+        env: # default use ${{ secrets.GITHUB_TOKEN }}, you should replace with your personal access token
           GITHUB_TOKEN: ${{ secrets.SUMMARY_CARDS_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}

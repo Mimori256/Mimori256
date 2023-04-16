@@ -1,4 +1,4 @@
-Just a student at the University of Tsukuba, currenty studying computer sciene and stuff.
+Just a student at the University of Tsukuba, currently studying computer science and stuff.
 
 ## Things I code with
 [![My Skills](https://skillicons.dev/icons?i=python,js,ts,crystal,go,html,css,react,vue,neovim)](https://skillicons.dev)

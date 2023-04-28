@@ -9,6 +9,8 @@ Just a student at the University of Tsukuba, currently studying computer science
 
   ![](https://raw.githubusercontent.com/Mimori256/Mimori256/main/profile-summary-card-output/calm/3-stats.svg)
   
+  
+  Total coding time(Since Aug 28th 2022)  
   [![wakatime](https://wakatime.com/badge/user/f5e28545-6c22-4bfd-9d9e-5dbf84fa4d4f.svg)](https://wakatime.com/@f5e28545-6c22-4bfd-9d9e-5dbf84fa4d4f)
   
 

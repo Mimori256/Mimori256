@@ -8,6 +8,7 @@ Just a student at the University of Tsukuba, currently studying computer science
   <summary>My stats📊</summary>
 
   ![](https://raw.githubusercontent.com/Mimori256/Mimori256/main/profile-summary-card-output/calm/3-stats.svg)
+  ![](https://raw.githubusercontent.com/Mimori256/Mimori256/main/profile-summary-card-output/calm/2-most-commit-language.svg)
   
   
   Total coding time(Since Aug 28th 2022)  

@@ -27,6 +27,13 @@ Just a student at the University of Tsukuba, currently studying computer science
 </details>
 
 <details>
+  <summary>Internships🧑‍💻</summary>
+  
+  * [日経新聞 インターンシップ](https://hack.nikkei.com/internJobs/2023_summer_5days/) 2023 08/14-08/18  
+  * [Persol株式会社インターンシップ Sprinters](https://www.persol-career.co.jp/recruit/newgraduate/recruit-info/sprint/) 2023 06/24-07/08  
+</details>
+
+<details>
   <summary>My interests❤</summary>
   
   * NLP(Natural Language Processing) 📊

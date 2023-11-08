@@ -23,7 +23,6 @@ Just a student at the University of Tsukuba, currently studying computer science
   * Japanese :jp: (Native)
   * English :uk: (Decent) [EF SET Certificate(83/100)](https://www.efset.org/cert/a1hXMs)
   * Spanish :es: (Okay)
-  * French :fr: (Infant)
 </details>
 
 <details>
@@ -32,7 +31,7 @@ Just a student at the University of Tsukuba, currently studying computer science
   * [Persol株式会社インターンシップ Sprinters](https://www.persol-career.co.jp/recruit/newgraduate/recruit-info/sprint/) 2023 06/24-07/08 
   * [日本経済新聞 インターンシップ](https://hack.nikkei.com/internJobs/2023_summer_5days/) 2023 08/14-08/18  
   * [Raksul 課題解決型インターンシップ](https://techblog.raksul.com/entry/2023/10/16/110513) 2023 09/11-09/15
-  * 日本経済新聞 長期インターン 2023/11～
+  * 日本経済新聞 長期インターンシップ 2023/11-現在
 </details>
 
 <details>
@@ -41,6 +40,4 @@ Just a student at the University of Tsukuba, currently studying computer science
   * NLP(Natural Language Processing) 📊
   * Language Learning 📖
   * Chess ♟️
-  * US & UK HipHop 🎤
-  * Piano 🎹
 </detalils>

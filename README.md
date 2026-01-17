@@ -22,6 +22,7 @@ Total coding time(Since Aug 28th 2022)
   * Japanese :jp: (Native)
   * English :uk: (Decent) 
   * Spanish :es: (Okay)
+  * Korean :ko: (Okay)
 </details>
 
 <details>

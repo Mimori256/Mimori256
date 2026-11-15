@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/Mimori256/Mimori256/main/profile-summary-card-output/highcontrast/4-productive-time.svg)
-```
-
-    
